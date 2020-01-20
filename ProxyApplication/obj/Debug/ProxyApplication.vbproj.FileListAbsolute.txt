@@ -1,0 +1,15 @@
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\bin\Debug\ProxyApplication.exe.config
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\bin\Debug\ProxyApplication.exe
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\bin\Debug\ProxyApplication.pdb
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\bin\Debug\ProxyApplication.xml
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.vbprojAssemblyReference.cache
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Browser_E.resources
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Form1.resources
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Resources.resources
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.vbproj.GenerateResource.cache
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.exe
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.xml
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.pdb
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Settings.resources
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Browser1.resources
+C:\Users\TeamIT\source\repos\ProxyApplication\ProxyApplication\obj\Debug\ProxyApplication.Admin.resources
